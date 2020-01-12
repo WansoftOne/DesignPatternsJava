@@ -1,4 +1,4 @@
-package com.wansoft.pattern.singletone;
+package com.wansoft.design.pattern.singletone;
 
 @SuppressWarnings("unused")
 public class Test {
@@ -7,7 +7,7 @@ public class Test {
 		/**
 		 * Using SingletoneUserCalss in main method
 		 */
-		SingletoneUser user = SingletoneUser.getSingletoneUser(24);
+		SingletoneUser user = SingletoneUser.getUser(24);
 		System.out.println("End program");
 	}
 }
