@@ -1,4 +1,4 @@
-package com.wansoft.pattern.factory.abstractt.example1;
+package com.wansoft.design.pattern.factory.abstractt.example1;
 
 /**
  * @author Juan Salinas Zavaleta

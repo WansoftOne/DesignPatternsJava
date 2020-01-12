@@ -1,4 +1,4 @@
-package com.wansoft.pattern.factory.abstractt.example1;
+package com.wansoft.design.pattern.factory.abstractt.example1;
 
 public class Test {
 	public static void main(String[] args) {
